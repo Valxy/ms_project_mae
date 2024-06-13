@@ -1,0 +1,13 @@
+# Blender 3.5.0 MTL File: 'script_test1.blend'
+# www.blender.org
+
+newmtl material_0.048
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/L0.jpg
+map_Ns textures/roughness.png
+map_Bump -bm 1.000000 textures/L0_normals.png

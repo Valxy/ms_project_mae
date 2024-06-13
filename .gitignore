@@ -1,0 +1,6 @@
+001/
+000/
+*.zip
+__pycache__/
+output_dir/
+img_data/
